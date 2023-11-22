@@ -22,5 +22,6 @@ public class Phone {
 public static void main(String[]args) {
 	Phone a = new Phone();
 	a.phoneInfo("Realme 5 pro");
+	System.out.println("Work done by QA team");
 }
 }
